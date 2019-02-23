@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Punto diagonal</title>
+    <link>https://puntodiagonal.github.io/</link>
+    <description>Recent content on Punto diagonal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Feb 2019 22:57:41 -0700</lastBuildDate>
+    
+        <atom:link href="https://puntodiagonal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prueba</title>
+      <link>https://puntodiagonal.github.io/posts/prueba/</link>
+      <pubDate>Fri, 22 Feb 2019 22:57:41 -0700</pubDate>
+      
+      <guid>https://puntodiagonal.github.io/posts/prueba/</guid>
+      <description>Esta es una prueba de sitio.
+Títulos grandes Está creado con org-mode, no markdown, eso significa que hay mucha mejor compatibilidad en emacs.
+Subtítulos Para hacerlo más completo.
+  MUDA MUDA MUDA MUDA!  Fin :^)</description>
+    </item>
+    
+  </channel>
+</rss>
